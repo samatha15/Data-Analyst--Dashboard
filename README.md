@@ -43,7 +43,6 @@ This project analyzes music streaming behavior using Microsoft Excel. The dashbo
 
 ##  Dataset Used
 - <a href-"https://github.com/samatha15/Data-Analyst--Dashboard/blob/main/excel%20project1.xlsx">Dataset</a>
-Music Streaming Habits Dataset (2026)
 
 ##  Dashboard Preview
 
